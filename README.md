@@ -1,5 +1,4 @@
 # Мои проекты
-Мои проекты
 
 [Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
 
