@@ -1,6 +1,6 @@
 # Мои проекты
 
-![alt tag](https://yandex.ru/images/search?text=%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B&from=tabbar&pos=0&img_url=http%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F2800_opt_1%2Fd5e6c665587307.5af9cdb2771f1.png&rpt=simage&lr=192)
+![280723283_556571269415810_1447940038253375384_n](https://user-images.githubusercontent.com/115732266/198842541-d9b8f9a1-1272-40ce-a1cb-5cb10ace56a2.png)
 
 [Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
 
