@@ -20,6 +20,8 @@
 
 [Отчет по доходам и расходам](https://app.powerbi.com/view?r=eyJrIjoiNDRmMDA1MTAtMzU0Yi00NTZjLWI3ZWUtYzQ2MzdhZjhmNDY0IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR3G-3ZBfPUlqhO83PQUPswnSVQX4cW19aG_p49pZa-B)
 
+![Отчет по доходам и расходам](https://user-images.githubusercontent.com/115732266/198844438-09b13820-6fca-43cb-a4e5-bc9c6647596c.png)
+
 [Отчет по продажам с моделированием «Что-Если», ABC и XYZ анализом](https://app.powerbi.com/view?r=eyJrIjoiNjdiYTI1YWEtMzE1My00N2QyLWJmNDUtNTgwNzI3MmM5YTQ5IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR0yTA70Xp9JgX2HspvStatKztMF1nMtNFBN3Z0aLVe63z3CXFMKUwyFt8Y) 
 
 [Отчет по анализу успешных сделок](https://app.powerbi.com/view?r=eyJrIjoiMzllNzhhNzQtYzE5ZC00N2U4LWJjNDYtYTRhOWI4MjgzZDExIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR1S0YIGqBgDPVbYs11Nf9vijU_JLnt3Y9AFynly7yoc6oe72B-ADxk9rJU)
