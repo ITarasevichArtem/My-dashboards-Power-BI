@@ -1,7 +1,5 @@
 # Мои проекты в Power BI
 
-[Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
-
 [Отчет на данных Google Analytics с анализом рекламных источников](https://app.powerbi.com/view?r=eyJrIjoiOTkwMTRjNGUtMzc3Mi00Y2Q4LTkxYzktZWVhZGNhZjg4ZDlkIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2jyoqtICALEX8IykCPbJqQ4qbf1pw96_B8iQhQEOtzGro1k4YyeNFASiE)
 
 ![Отчет на данных Google Analytics с анализом рекламных источников](https://user-images.githubusercontent.com/115732266/198844244-b2da760d-ee65-4e06-ac10-d73794f20528.png)
@@ -35,3 +33,5 @@
 ![Отчет по продажам (на планерку)](https://user-images.githubusercontent.com/115732266/198844775-f35d1bd2-cdb2-430e-9707-e0703849517f.png)
 
 [Разработка шаблонного отчета по рекламе Google Analytics для mybi market](http://market.mybi.ru/authors/artem-tarasevich)
+
+[Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
