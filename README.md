@@ -32,4 +32,6 @@
 
 [Отчет по продажам (с анализом конверсий, источников, менеджеров и выполнения планов)](https://app.powerbi.com/view?r=eyJrIjoiNTQ5ODg5NGUtYTRkNC00ZmZlLThlMTMtNmYxODc0NjRlZjFlIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR1PijnUu3WZfAd9FLsbgadiZwgE59kntt4sA1sY7MIwmXglon3CNo37D0E)
 
+![Отчет по продажам (на планерку)](https://user-images.githubusercontent.com/115732266/198844775-f35d1bd2-cdb2-430e-9707-e0703849517f.png)
+
 [Разработка шаблонного отчета по рекламе Google Analytics для mybi market](http://market.mybi.ru/authors/artem-tarasevich)
