@@ -1,6 +1,6 @@
 # Мои проекты
 
-![280723283_556571269415810_1447940038253375384_n](https://app.powerbi.com/view?r=eyJrIjoiNGI3ZDU1YTUtYTAxYi00M2E4LTg3YmEtMzA3OWRiYTIyYWZlIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR02Sp1xTDdfHfsBEQpBjFphqFW2tnFdcniEJQAQjdhd98ggvlr9Dn2oRBw)
+![отчет по магазинам](https://user-images.githubusercontent.com/115732266/198842800-ac857919-e813-4536-93d8-a19960ab5e40.png)
 
 [Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
 
