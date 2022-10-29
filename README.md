@@ -28,6 +28,8 @@
 
 [Отчет по анализу успешных сделок](https://app.powerbi.com/view?r=eyJrIjoiMzllNzhhNzQtYzE5ZC00N2U4LWJjNDYtYTRhOWI4MjgzZDExIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR1S0YIGqBgDPVbYs11Nf9vijU_JLnt3Y9AFynly7yoc6oe72B-ADxk9rJU)
 
+![Отчет по анализу успешных сделок](https://user-images.githubusercontent.com/115732266/198844643-fd527e11-820b-4e92-ad3c-5059ca4e6250.png)
+
 [Отчет по продажам (с анализом конверсий, источников, менеджеров и выполнения планов)](https://app.powerbi.com/view?r=eyJrIjoiNTQ5ODg5NGUtYTRkNC00ZmZlLThlMTMtNmYxODc0NjRlZjFlIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR1PijnUu3WZfAd9FLsbgadiZwgE59kntt4sA1sY7MIwmXglon3CNo37D0E)
 
 [Разработка шаблонного отчета по рекламе Google Analytics для mybi market](http://market.mybi.ru/authors/artem-tarasevich)
