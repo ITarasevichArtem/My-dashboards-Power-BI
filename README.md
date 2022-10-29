@@ -1,6 +1,6 @@
 # Мои проекты
 
-[Страничка на Facebook с моими отчетами в Power BI]](https://m.facebook.com/Tarasevich.Artem1982/)
+[Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
 
 [Отчет на данных Google Analytics с анализом рекламных источников](https://app.powerbi.com/view?r=eyJrIjoiOTkwMTRjNGUtMzc3Mi00Y2Q4LTkxYzktZWVhZGNhZjg4ZDlkIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2jyoqtICALEX8IykCPbJqQ4qbf1pw96_B8iQhQEOtzGro1k4YyeNFASiE)
 
