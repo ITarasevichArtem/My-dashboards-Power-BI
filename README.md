@@ -1,7 +1,5 @@
 # Мои проекты
 
-![отчет по магазинам](https://user-images.githubusercontent.com/115732266/198842800-ac857919-e813-4536-93d8-a19960ab5e40.png)
-
 [Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
 
 [Отчет на данных Google Analytics с анализом рекламных источников](https://app.powerbi.com/view?r=eyJrIjoiOTkwMTRjNGUtMzc3Mi00Y2Q4LTkxYzktZWVhZGNhZjg4ZDlkIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2jyoqtICALEX8IykCPbJqQ4qbf1pw96_B8iQhQEOtzGro1k4YyeNFASiE)
@@ -9,6 +7,7 @@
 [Отчет по анализу сайта (3е место в online-Хакатоне по Power BI 2.0)](https://app.powerbi.com/view?r=eyJrIjoiMGMwYWZiMjgtNTk4OS00OTdkLTg0OGYtNWE5MDc2OWEwMmE3IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2XBq7Vta8EEUAoz91K1WMGv_aEvgcVCwAnK-dw-y8sfcUarnm30bhNfLo)
 
 [Отчет продаж по магазинам](https://app.powerbi.com/view?r=eyJrIjoiNGI3ZDU1YTUtYTAxYi00M2E4LTg3YmEtMzA3OWRiYTIyYWZlIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR02Sp1xTDdfHfsBEQpBjFphqFW2tnFdcniEJQAQjdhd98ggvlr9Dn2oRBw)
+![отчет по магазинам](https://user-images.githubusercontent.com/115732266/198842800-ac857919-e813-4536-93d8-a19960ab5e40.png)
 
 [Отчет по сквозной аналитике с атрибуцией](https://app.powerbi.com/view?r=eyJrIjoiZTdlNTA3MzEtYWE0YS00MzVkLWI2NDktZTk4OWNhZmFjZmU0IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2xa6nBuSDaOr1EySS7m0eZGIWEb8njcKrWfa0WpDY2vDVFcrR37gDXGmk)
 
