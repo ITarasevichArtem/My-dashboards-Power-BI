@@ -16,6 +16,8 @@
 
 [Отчет по сквозной аналитике с атрибуцией](https://app.powerbi.com/view?r=eyJrIjoiZTdlNTA3MzEtYWE0YS00MzVkLWI2NDktZTk4OWNhZmFjZmU0IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2xa6nBuSDaOr1EySS7m0eZGIWEb8njcKrWfa0WpDY2vDVFcrR37gDXGmk)
 
+![Отчет по сквозной аналитике с атрибуцией](https://user-images.githubusercontent.com/115732266/198844379-62ce887d-37ae-4f15-a307-822457596d20.png)
+
 [Отчет по доходам и расходам](https://app.powerbi.com/view?r=eyJrIjoiNDRmMDA1MTAtMzU0Yi00NTZjLWI3ZWUtYzQ2MzdhZjhmNDY0IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR3G-3ZBfPUlqhO83PQUPswnSVQX4cW19aG_p49pZa-B)
 
 [Отчет по продажам с моделированием «Что-Если», ABC и XYZ анализом](https://app.powerbi.com/view?r=eyJrIjoiNjdiYTI1YWEtMzE1My00N2QyLWJmNDUtNTgwNzI3MmM5YTQ5IiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR0yTA70Xp9JgX2HspvStatKztMF1nMtNFBN3Z0aLVe63z3CXFMKUwyFt8Y) 
