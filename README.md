@@ -1,6 +1,6 @@
 # Проекты в Power BI
 
-[Отчет на данных Google Analytics с анализом рекламных источников](https://app.powerbi.com/view?r=eyJrIjoiOTkwMTRjNGUtMzc3Mi00Y2Q4LTkxYzktZWVhZGNhZjg4ZDlkIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2jyoqtICALEX8IykCPbJqQ4qbf1pw96_B8iQhQEOtzGro1k4YyeNFASiE)
+[Отчет на данных Google Analytics с анализом рекламных источников *(ссылка)*](https://app.powerbi.com/view?r=eyJrIjoiOTkwMTRjNGUtMzc3Mi00Y2Q4LTkxYzktZWVhZGNhZjg4ZDlkIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2jyoqtICALEX8IykCPbJqQ4qbf1pw96_B8iQhQEOtzGro1k4YyeNFASiE)
 
 ![Отчет на данных Google Analytics с анализом рекламных источников](https://user-images.githubusercontent.com/115732266/198844244-b2da760d-ee65-4e06-ac10-d73794f20528.png)
 
