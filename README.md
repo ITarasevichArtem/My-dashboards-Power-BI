@@ -1,5 +1,7 @@
 # Мои проекты
-https://yandex.ru/images/search?text=%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B&from=tabbar&pos=0&img_url=http%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F2800_opt_1%2Fd5e6c665587307.5af9cdb2771f1.png&rpt=simage&lr=192
+
+(https://yandex.ru/images/search?text=%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B&from=tabbar&pos=0&img_url=http%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F2800_opt_1%2Fd5e6c665587307.5af9cdb2771f1.png&rpt=simage&lr=192)
+
 [Страничка на Facebook с моими отчетами в Power BI](https://m.facebook.com/Tarasevich.Artem1982/)
 
 [Отчет на данных Google Analytics с анализом рекламных источников](https://app.powerbi.com/view?r=eyJrIjoiOTkwMTRjNGUtMzc3Mi00Y2Q4LTkxYzktZWVhZGNhZjg4ZDlkIiwidCI6ImFmZTg2Y2IxLWRlZmYtNDE3MS1iZmI1LWYyMGJiOTcxOWQ4YyIsImMiOjl9&fbclid=IwAR2jyoqtICALEX8IykCPbJqQ4qbf1pw96_B8iQhQEOtzGro1k4YyeNFASiE)
